@@ -1,0 +1,14 @@
+[
+  {
+    "id": "HBFk",
+    "title": "Con bò cười",
+    "author": "phgg",
+    "isBorrowed": false
+  },
+  {
+    "id": "JWFK",
+    "title": "Con bò không cười",
+    "author": "psss",
+    "isBorrowed": true
+  }
+]

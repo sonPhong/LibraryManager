@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "rootDir": "./", // thư mục chứa mã nguồn TypeScript
+    "outDir": "./dist", // thư mục chứa file đã biên dịch
+    "esModuleInterop": true, // hỗ trợ import theo kiểu ES
+    "strict": true, // bật kiểm tra chặt chẽ
+    "skipLibCheck": true // bỏ qua kiểm tra type của thư viện ngoài
+  }
+}
